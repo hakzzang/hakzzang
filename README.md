@@ -4,4 +4,4 @@
  - 앱 개발을 통해서 좋은 영향을 주고 싶습니다.
 
 ### Github Stats
-[![Byeonghak's github stats](https://github-readme-stats.vercel.app/api?username=hakzzang)](https://github.com/anuraghazra/github-readme-stats)
+[![Byeonghak's github stats](https://github-readme-stats.vercel.app/api?username=hakzzang)](https://github.com/hakzzang)
